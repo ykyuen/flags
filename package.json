@@ -1,0 +1,19 @@
+{
+  "name": "flags",
+  "version": "1.0.0",
+  "description": "This repository is a clone of gosquared/flags but with a dummy package.json which is needed during npm install.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykyuen/flags.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ykyuen/flags/issues"
+  },
+  "homepage": "https://github.com/ykyuen/flags#readme"
+}
